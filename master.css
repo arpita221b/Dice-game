@@ -1,0 +1,30 @@
+.active h1{
+  color: green;
+  font-size: 5rem;
+  font-family: 'Caveat Brush', cursive;
+}
+h2{
+  color: green;
+  font-family: 'Caveat Brush', cursive;
+}
+.center{
+  margin: 5% 15%;
+  text-align: center;
+  background-color: #222831;
+}
+.block p{
+  color: green;
+  font-family: 'Caveat Brush', cursive;
+}
+.act img{
+  margin: 2% 2% ;
+  width: 60%;
+}
+.block{
+  display: inline-block;
+}
+.block p{
+  font-size: 2rem;
+  font-weight: bold;
+
+}
